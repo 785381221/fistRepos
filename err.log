@@ -1,0 +1,189 @@
+2020-08-21T09:43:17.716937Z 0 [System] [MY-013169] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) initializing of server in progress as process 23658
+2020-08-21T09:43:17.718279Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-21T09:43:17.718287Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-21T09:43:26.940504Z 5 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: nw-iMc)3wa<m
+2020-08-21T09:44:07.513308Z 0 [System] [MY-013169] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) initializing of server in progress as process 23994
+2020-08-21T09:44:07.514697Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-21T09:44:07.514706Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-21T09:44:07.515387Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2020-08-21T09:44:07.515440Z 0 [ERROR] [MY-013236] [Server] The designated data directory /data/mysql/ is unusable. You can remove all files that the server added to it.
+2020-08-21T09:44:07.515533Z 0 [ERROR] [MY-010119] [Server] Aborting
+2020-08-21T09:44:07.515687Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-21T09:45:10.549163Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 24402
+2020-08-21T09:45:10.552290Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-21T09:45:10.552304Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-21T09:45:11.522338Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-21T09:45:11.550371Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-21T09:45:11.599533Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-21T10:17:31.033801Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-21T10:17:31.774275Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 721
+2020-08-21T10:17:31.777379Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-21T10:17:31.777394Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-21T10:17:32.543939Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-21T10:17:32.570755Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-21T10:17:32.705484Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-21T10:21:05.159075Z 8 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-21T10:21:28.491953Z 9 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-21T10:24:53.606813Z 12 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-21T10:30:18.257061Z 14 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-21T10:30:22.033165Z 15 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-21T10:30:23.974414Z 16 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:16:29.211055Z 17 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:16:36.804354Z 18 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:17:20.444445Z 19 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:29:09.773275Z 20 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:30:47.152684Z 21 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:31:19.629250Z 22 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:31:32.388947Z 23 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:32:37.794091Z 24 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:33:49.970882Z 25 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:35:22.598632Z 26 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:35:58.373598Z 27 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:42:14.003938Z 28 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:52:30.879729Z 29 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T02:53:17.521706Z 30 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T03:11:36.731397Z 30 [ERROR] [MY-000035] [Server] Disk is full writing './binlog.000003' (OS errno 28 - No space left on device). Waiting for someone to free space... Retry in 60 secs. Message reprinted in 600 secs.
+2020-08-22T03:21:36.775753Z 30 [ERROR] [MY-000035] [Server] Disk is full writing './binlog.000003' (OS errno 28 - No space left on device). Waiting for someone to free space... Retry in 60 secs. Message reprinted in 600 secs.
+2020-08-22T03:31:36.810428Z 30 [ERROR] [MY-000035] [Server] Disk is full writing './binlog.000003' (OS errno 28 - No space left on device). Waiting for someone to free space... Retry in 60 secs. Message reprinted in 600 secs.
+2020-08-22T03:41:36.843743Z 30 [ERROR] [MY-000035] [Server] Disk is full writing './binlog.000003' (OS errno 28 - No space left on device). Waiting for someone to free space... Retry in 60 secs. Message reprinted in 600 secs.
+2020-08-22T03:46:46.833230Z 31 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolu2020-08-22T06:18:06.742987Z 40 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:21:41.080338Z 41 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:21:50.204212Z 42 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:22:54.964924Z 43 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:23:35.526770Z 44 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:23:45.402465Z 45 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:31:51.523325Z 46 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:31:56.241296Z 47 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:32:13.841138Z 48 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T06:32:33.668386Z 49 [Warning] [MY-010055] [Server] IP address '172.18.6.58' could not be resolved: Temporary failure in name resolution
+2020-08-22T08:30:19.067784Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-22T08:30:19.067801Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:30:19.067910Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 23772
+2020-08-22T08:30:19.069295Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-22T08:30:19.069309Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-22T08:30:23.330720Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-08-22T08:30:23.339045Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-08-22T08:30:23.406707Z 0 [Warning] [MY-000054] [Server] World-writable config file './auto.cnf' is ignored.
+2020-08-22T08:30:23.406932Z 0 [Warning] [MY-010107] [Server] World-writable config file './auto.cnf' has been removed.
+2020-08-22T08:30:23.407219Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: b8ea5aeb-e451-11ea-a98f-6008106170cf.
+2020-08-22T08:30:25.028176Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-22T08:30:25.044194Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:30:25.134078Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-22T08:30:25.317964Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-22T08:32:36.795709Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-22T08:32:37.728697Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-22T08:32:37.728714Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:32:37.728821Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 24821
+2020-08-22T08:32:37.730204Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-22T08:32:37.730219Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-22T08:32:38.247889Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-22T08:32:38.251152Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:32:38.277109Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-22T08:32:38.381911Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-22T08:44:47.728205Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-22T08:44:49.070412Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-08-22T08:44:49.071863Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-22T08:44:49.071874Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:44:49.071989Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 28379
+2020-08-22T08:44:49.073370Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-22T08:44:49.073385Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+ 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
+ 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
+2020-08-22T08:45:02.576084Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-22T08:45:02.579632Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-22T08:45:02.609280Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-22T08:45:02.682511Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-23T01:52:24.695162Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-23T01:52:25.854705Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-08-23T01:52:25.854777Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-08-23T01:52:25.856671Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-23T01:52:25.856682Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-23T01:52:25.856774Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 31931
+2020-08-23T01:52:25.866493Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-23T01:52:25.866507Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-23T01:52:32.001668Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-08-23T01:52:32.012281Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-23T01:52:32.020842Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-23T01:52:32.067653Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-23T01:52:32.147178Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-24T03:12:44.503068Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 80  user: 'root'.
+2020-08-24T03:12:44.503140Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 72  user: 'root'.
+2020-08-24T03:12:44.503176Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 89  user: 'root'.
+2020-08-24T03:12:44.503206Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 73  user: 'root'.
+2020-08-24T03:12:44.503237Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 82  user: 'root'.
+2020-08-24T03:12:44.503274Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 66  user: 'root'.
+2020-08-24T03:12:44.503311Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 67  user: 'root'.
+2020-08-24T03:12:44.503344Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 91  user: 'root'.
+2020-08-24T03:12:44.503382Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 84  user: 'root'.
+2020-08-24T03:12:44.503461Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 78  user: 'root'.
+2020-08-24T03:12:47.954304Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-24T03:12:48.922512Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-08-24T03:12:48.922582Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-08-24T03:12:48.924510Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-24T03:12:48.924521Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-24T03:12:48.924613Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 31653
+2020-08-24T03:12:48.934576Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-24T03:12:48.934591Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-24T03:12:55.651993Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-08-24T03:12:55.662866Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-24T03:12:55.671595Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-24T03:12:55.785128Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-24T03:12:56.037620Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-25T01:22:04.160059Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 48  user: 'root'.
+2020-08-25T01:22:04.161162Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 49  user: 'root'.
+2020-08-25T01:22:04.161223Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 46  user: 'root'.
+2020-08-25T01:22:04.161261Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 47  user: 'root'.
+2020-08-25T01:22:28.128839Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-25T01:22:29.051259Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-08-25T01:22:29.052660Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-25T01:22:29.052671Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T01:22:29.052774Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 15111
+2020-08-25T01:22:29.061455Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-25T01:22:29.061472Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-25T01:22:38.918313Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-08-25T01:22:38.953880Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-25T01:22:38.990300Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T01:22:39.029844Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-25T01:22:39.052153Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-25T05:52:23.789237Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 56  user: 'root'.
+2020-08-25T05:52:23.789649Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 57  user: 'root'.
+2020-08-25T05:52:23.789701Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 41  user: 'root'.
+2020-08-25T05:52:23.789743Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 42  user: 'root'.
+2020-08-25T05:52:23.789780Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 58  user: 'root'.
+2020-08-25T05:52:23.789816Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 43  user: 'root'.
+2020-08-25T05:52:23.789863Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 59  user: 'root'.
+2020-08-25T05:52:23.789909Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 35  user: 'root'.
+2020-08-25T05:52:23.789952Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 52  user: 'root'.
+2020-08-25T05:52:23.790002Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 44  user: 'root'.
+2020-08-25T05:52:23.790038Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 60  user: 'root'.
+2020-08-25T05:52:23.790072Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 36  user: 'root'.
+2020-08-25T05:52:23.790107Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 45  user: 'root'.
+2020-08-25T05:52:23.790143Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 53  user: 'root'.
+2020-08-25T05:52:23.790184Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 38  user: 'root'.
+2020-08-25T05:52:23.790222Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 39  user: 'root'.
+2020-08-25T05:52:23.790258Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 55  user: 'root'.
+2020-08-25T05:52:27.728950Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-25T05:52:28.304087Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-08-25T05:52:28.306134Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-25T05:52:28.306144Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T05:52:28.306241Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 19937
+2020-08-25T05:52:28.309517Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-25T05:52:28.309532Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-25T05:52:34.339192Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-08-25T05:52:34.341576Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-25T05:52:34.344789Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T05:52:34.386127Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-25T05:52:34.476048Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-08-25T05:57:04.750814Z 0 [Warning] [MY-010909] [Server] /usr/local/mysql/bin/mysqld: Forcing close of thread 8  user: 'root'.
+2020-08-25T05:57:07.724349Z 0 [System] [MY-010910] [Server] /usr/local/mysql/bin/mysqld: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-08-25T05:57:08.777678Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-08-25T05:57:08.779100Z 0 [Warning] [MY-010099] [Server] Insecure configuration for --secure-file-priv: Data directory is accessible through --secure-file-priv. Consider choosing a different directory.
+2020-08-25T05:57:08.779111Z 0 [Warning] [MY-010101] [Server] Insecure configuration for --secure-file-priv: Location is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T05:57:08.779211Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.18) starting as process 21675
+2020-08-25T05:57:08.780578Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2020-08-25T05:57:08.780593Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2020-08-25T05:57:15.264702Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-08-25T05:57:15.267109Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-08-25T05:57:15.270500Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/data/mysql' in the path is accessible to all OS users. Consider choosing a different directory.
+2020-08-25T05:57:15.310191Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.18'  socket: '/data/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-08-25T05:57:15.399973Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
